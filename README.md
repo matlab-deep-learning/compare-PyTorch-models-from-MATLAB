@@ -40,7 +40,7 @@ Go to your working folder. Create the Python virtual environment `venv` in a com
 
 
 
-```matlab:Code(Display)
+```python:Code(Display)
 python -m venv env
 ```
 
