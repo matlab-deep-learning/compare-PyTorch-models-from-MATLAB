@@ -77,7 +77,7 @@ python -m pip show numpy torch torchvision
 
 
 
-Set up the Python interpreter for MATLAB.
+From MATLAB, set up the Python interpreter for MATLAB.
 
 
 
