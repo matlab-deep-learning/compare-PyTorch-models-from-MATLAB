@@ -36,7 +36,7 @@ Set up the Python environment by first running commands at a command prompt (Win
 
 
 
-Go to your working folder. Create the Python virtual environment `venv` in a command prompt outside MATLAB. 
+Go to your working folder. Create the Python virtual environment `venv` in a command prompt outside MATLAB. If you have multiple versions of Python installed, you can specify which Python version to use for your virtual environment.
 
 
 
@@ -44,10 +44,6 @@ Go to your working folder. Create the Python virtual environment `venv` in a com
 python -m venv env
 ```
 
-
-
-If you have multiple versions of Python installed, you can specify which Python version to use for your virtual environment.
-```
 
 
 
