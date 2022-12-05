@@ -46,12 +46,7 @@ python -m venv env
 
 
 
-If you have multiple versions of Python installed, you can specify which Python version to use for your virtual environment. For example, enter at the command prompt:
-
-
-
-```matlab:Code(Display)
-python3.10 -m venv env
+If you have multiple versions of Python installed, you can specify which Python version to use for your virtual environment.
 ```
 
 
